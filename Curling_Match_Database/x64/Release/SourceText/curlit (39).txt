@@ -1,0 +1,288 @@
+0039 0001 0001
+draw	in	4
+
+0039 0001 0002
+takeout	out	2
+
+0039 0001 0003
+draw	in	4
+
+0039 0001 0004
+takeout	out	4
+
+0039 0001 0005
+takeout	out	4
+
+0039 0001 0006
+takeout	out	4
+
+0039 0001 0007
+takeout	in	4
+
+0039 0001 0008
+takeout	out	4
+
+0039 0001 0009
+takeout	in	4
+
+0039 0001 0010
+takeout	out	4
+
+0039 0001 0011
+takeout	in	4
+
+0039 0001 0012
+takeout	out	4
+
+0039 0001 0013
+takeout	in	4
+
+0039 0001 0014
+takeout	out	4
+
+0039 0001 0015
+takeout	out	4
+
+0039 0001 0016
+clearing	out	0
+
+0039 0002 0001
+draw	in	4
+
+0039 0002 0002
+front	out	4
+
+0039 0002 0003
+guard	in	0
+
+0039 0002 0004
+hitandroll	out	2
+
+0039 0002 0005
+hitandroll	out	2
+
+0039 0002 0006
+hitandroll	out	2
+
+0039 0002 0007
+draw	out	0
+
+0039 0002 0008
+draw	out	4
+
+0039 0002 0009
+draw	out	2
+
+0039 0002 0010
+draw	out	4
+
+0039 0002 0011
+draw	out	2
+
+0039 0002 0012
+draw	out	4
+
+0039 0002 0013
+promotiontakeout	out	0
+
+0039 0002 0014
+doubletakeout	out	2
+
+0039 0002 0015
+draw	out	1
+
+0039 0002 0016
+draw	out	2
+
+0039 0003 0001
+draw	in	4
+
+0039 0003 0002
+front	in	4
+
+0039 0003 0003
+draw	in	4
+
+0039 0003 0004
+takeout	out	4
+
+0039 0003 0005
+takeout	out	4
+
+0039 0003 0006
+draw	in	4
+
+0039 0003 0007
+takeout	in	4
+
+0039 0003 0008
+hitandroll	out	2
+
+0039 0003 0009
+takeout	out	4
+
+0039 0003 0010
+draw	in	0
+
+0039 0003 0011
+draw	in	2
+
+0039 0003 0012
+draw	in	2
+
+0039 0003 0013
+takeout	in	4
+
+0039 0003 0014
+draw	in	2
+
+0039 0003 0015
+takeout	in	0
+
+0039 0003 0016
+draw	in	4
+
+0039 0004 0001
+front	out	4
+
+0039 0004 0002
+front	in	4
+
+0039 0004 0003
+front	out	4
+
+0039 0004 0004
+draw	out	4
+
+0039 0004 0005
+draw	out	0
+
+0039 0004 0006
+clearing	out	4
+
+0039 0004 0007
+draw	out	4
+
+0039 0004 0008
+clearing	out	2
+
+0039 0004 0009
+draw	out	0
+
+0039 0004 0010
+takeout	out	2
+
+0039 0004 0011
+raise	out	2
+
+0039 0004 0012
+draw	out	4
+
+0039 0004 0013
+draw	out	4
+
+0039 0004 0014
+draw	out	4
+
+0039 0004 0015
+promotiontakeout	in	2
+
+0039 0004 0016
+draw	out	4
+
+0039 0005 0001
+draw	in	4
+
+0039 0005 0002
+front	out	4
+
+0039 0005 0003
+draw	in	4
+
+0039 0005 0004
+front	out	2
+
+0039 0005 0005
+clearing	out	4
+
+0039 0005 0006
+draw	out	4
+
+0039 0005 0007
+clearing	out	4
+
+0039 0005 0008
+front	out	1
+
+0039 0005 0009
+clearing	out	4
+
+0039 0005 0010
+draw	in	4
+
+0039 0005 0011
+takeout	in	4
+
+0039 0005 0012
+takeout	in	2
+
+0039 0005 0013
+doubletakeout	out	2
+
+0039 0005 0014
+takeout	in	2
+
+0039 0005 0015
+takeout	in	4
+
+0039 0005 0016
+doubletakeout	in	2
+
+0039 0006 0001
+draw	out	4
+
+0039 0006 0002
+front	out	4
+
+0039 0006 0003
+draw	out	4
+
+0039 0006 0004
+front	in	4
+
+0039 0006 0005
+clearing	out	2
+
+0039 0006 0006
+front	out	4
+
+0039 0006 0007
+doubletakeout	out	2
+
+0039 0006 0008
+draw	in	4
+
+0039 0006 0009
+doubletakeout	in	2
+
+0039 0006 0010
+draw	out	4
+
+0039 0006 0011
+takeout	out	4
+
+0039 0006 0012
+doubletakeout	out	4
+
+0039 0006 0013
+takeout	out	4
+
+0039 0006 0014
+draw	out	2
+
+0039 0006 0015
+takeout	out	2
+
+0039 0006 0016
+hitandroll	out	4
+

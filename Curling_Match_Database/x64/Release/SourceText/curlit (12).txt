@@ -1,0 +1,432 @@
+0012 0001 0001
+draw	in	4
+
+0012 0001 0002
+takeout	out	4
+
+0012 0001 0003
+takeout	in	2
+
+0012 0001 0004
+front	in	4
+
+0012 0001 0005
+clearing	out	4
+
+0012 0001 0006
+front	out	4
+
+0012 0001 0007
+clearing	in	2
+
+0012 0001 0008
+draw	out	3
+
+0012 0001 0009
+clearing	out	4
+
+0012 0001 0010
+draw	out	0
+
+0012 0001 0011
+draw	in	0
+
+0012 0001 0012
+takeout	out	2
+
+0012 0001 0013
+draw	in	4
+
+0012 0001 0014
+hitandroll	out	2
+
+0012 0001 0015
+draw	in	4
+
+0012 0001 0016
+clearing	out	4
+
+0012 0002 0001
+draw	in	4
+
+0012 0002 0002
+takeout	in	2
+
+0012 0002 0003
+draw	in	4
+
+0012 0002 0004
+takeout	in	4
+
+0012 0002 0005
+takeout	out	4
+
+0012 0002 0006
+takeout	in	2
+
+0012 0002 0007
+draw	in	4
+
+0012 0002 0008
+takeout	in	4
+
+0012 0002 0009
+hitandroll	out	4
+
+0012 0002 0010
+hitandroll	out	4
+
+0012 0002 0011
+takeout	out	4
+
+0012 0002 0012
+clearing	in	4
+
+0012 0002 0013
+draw	in	4
+
+0012 0002 0014
+takeout	out	4
+
+0012 0002 0015
+takeout	out	2
+
+0012 0002 0016
+through
+
+0012 0003 0001
+front	in	4
+
+0012 0003 0002
+draw	in	3
+
+0012 0003 0003
+draw	in	3
+
+0012 0003 0004
+hitandroll	in	0
+
+0012 0003 0005
+hitandroll	in	3
+
+0012 0003 0006
+hitandroll	out	3
+
+0012 0003 0007
+hitandroll	out	3
+
+0012 0003 0008
+doubletakeout	out	4
+
+0012 0003 0009
+hitandroll	in	3
+
+0012 0003 0010
+takeout	out	4
+
+0012 0003 0011
+hitandroll	out	3
+
+0012 0003 0012
+takeout	out	4
+
+0012 0003 0013
+hitandroll	out	4
+
+0012 0003 0014
+takeout	in	4
+
+0012 0003 0015
+hitandroll	in	3
+
+0012 0003 0016
+clearing	in	2
+
+0012 0004 0001
+draw	out	4
+
+0012 0004 0002
+front	out	4
+
+0012 0004 0003
+guard	out	4
+
+0012 0004 0004
+draw	in	0
+
+0012 0004 0005
+guard	out	4
+
+0012 0004 0006
+clearing	out	4
+
+0012 0004 0007
+guard	out	4
+
+0012 0004 0008
+clearing	out	0
+
+0012 0004 0009
+draw	out	4
+
+0012 0004 0010
+clearing	out	4
+
+0012 0004 0011
+guard	out	3
+
+0012 0004 0012
+doubletakeout	out	2
+
+0012 0004 0013
+guard	out	4
+
+0012 0004 0014
+doubletakeout	out	2
+
+0012 0004 0015
+draw	out	4
+
+0012 0004 0016
+wick/softpeeling	in	0
+
+0012 0005 0001
+draw	in	4
+
+0012 0005 0002
+front	out	3
+
+0012 0005 0003
+draw	out	4
+
+0012 0005 0004
+draw	out	3
+
+0012 0005 0005
+clearing	out	4
+
+0012 0005 0006
+front	out	4
+
+0012 0005 0007
+clearing	out	4
+
+0012 0005 0008
+front	out	4
+
+0012 0005 0009
+clearing	out	4
+
+0012 0005 0010
+draw	out	3
+
+0012 0005 0011
+promotiontakeout	out	4
+
+0012 0005 0012
+draw	out	3
+
+0012 0005 0013
+promotiontakeout	in	0
+
+0012 0005 0014
+takeout	in	4
+
+0012 0005 0015
+hitandroll	in	3
+
+0012 0005 0016
+doubletakeout	out	0
+
+0012 0006 0001
+draw	out	4
+
+0012 0006 0002
+front	out	4
+
+0012 0006 0003
+draw	out	4
+
+0012 0006 0004
+front	in	3
+
+0012 0006 0005
+clearing	in	4
+
+0012 0006 0006
+front	in	4
+
+0012 0006 0007
+clearing	in	4
+
+0012 0006 0008
+front	in	4
+
+0012 0006 0009
+clearing	in	4
+
+0012 0006 0010
+draw	out	4
+
+0012 0006 0011
+wick/softpeeling	out	4
+
+0012 0006 0012
+freeze	out	0
+
+0012 0006 0013
+guard	out	4
+
+0012 0006 0014
+hitandroll	in	2
+
+0012 0006 0015
+takeout	in	4
+
+0012 0006 0016
+draw	out	0
+
+0012 0007 0001
+draw	in	4
+
+0012 0007 0002
+front	out	4
+
+0012 0007 0003
+through
+
+0012 0007 0004
+front	in	4
+
+0012 0007 0005
+clearing	out	0
+
+0012 0007 0006
+draw	out	3
+
+0012 0007 0007
+clearing	out	4
+
+0012 0007 0008
+guard	out	2
+
+0012 0007 0009
+clearing	out	4
+
+0012 0007 0010
+draw	in	4
+
+0012 0007 0011
+takeout	out	4
+
+0012 0007 0012
+draw	in	4
+
+0012 0007 0013
+hitandroll	out	2
+
+0012 0007 0014
+draw	in	4
+
+0012 0007 0015
+takeout	in	0
+
+0012 0007 0016
+draw	in	4
+
+0012 0008 0001
+front	in	4
+
+0012 0008 0002
+draw	out	4
+
+0012 0008 0003
+front	in	4
+
+0012 0008 0004
+draw	out	4
+
+0012 0008 0005
+draw	out	3
+
+0012 0008 0006
+doubletakeout	in	4
+
+0012 0008 0007
+front	out	4
+
+0012 0008 0008
+clearing	in	4
+
+0012 0008 0009
+draw	out	4
+
+0012 0008 0010
+clearing	out	4
+
+0012 0008 0011
+guard	out	4
+
+0012 0008 0012
+clearing	in	4
+
+0012 0008 0013
+guard	out	4
+
+0012 0008 0014
+hitandroll	out	3
+
+0012 0008 0015
+promotiontakeout	out	4
+
+0012 0008 0016
+takeout	out	2
+
+0012 0009 0001
+front	in	3
+
+0012 0009 0002
+draw	in	4
+
+0012 0009 0003
+front	in	3
+
+0012 0009 0004
+draw	in	4
+
+0012 0009 0005
+draw	in	3
+
+0012 0009 0006
+clearing	in	4
+
+0012 0009 0007
+guard	in	4
+
+0012 0009 0008
+doubletakeout	out	4
+
+0012 0009 0009
+guard	in	2
+
+0012 0009 0010
+clearing	out	4
+
+0012 0009 0011
+guard	in	4
+
+0012 0009 0012
+clearing	out	4
+
+0012 0009 0013
+draw	in	4
+
+0012 0009 0014
+clearing	in	4
+
+0012 0009 0015
+draw	out	3
+
+0012 0009 0016
+takeout	out	4
+
